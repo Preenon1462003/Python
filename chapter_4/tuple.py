@@ -1,0 +1,7 @@
+a=(1,2,7,2)
+print(a[0])
+print(a)
+a1=a.count(2)
+print(a1)
+a2=a.index(7)
+print(a2)
